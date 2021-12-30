@@ -1,4 +1,3 @@
-import './App.css';
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import Header from './Components/Header';
 import Home from './Components/Home';
@@ -39,3 +38,6 @@ export default App;
 // Commands required to install modules for the usage of material ui table:
 // npm install material-table --save
 // npm install "@material-ui/core" --save
+// 
+// Additional Commands to prevent error and to use Text Field:
+// npm install @mui/material @emotion/react @emotion/styled

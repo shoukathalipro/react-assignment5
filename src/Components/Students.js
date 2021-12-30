@@ -1,5 +1,4 @@
 import React from "react";
-// import BasicTable from "./BasicTable";
 import styles from '../AppStyles.module.css';
 
 import { Table } from '@material-ui/core';
